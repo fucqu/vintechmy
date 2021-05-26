@@ -1,6 +1,6 @@
 <h1 align="center">VINTECHMY</h1>
 
-## Owner
+### Owner
 * Original Script by Horass.
 
 ### Reason this happen
@@ -8,4 +8,4 @@
 * Main reason is because, you don't mention who was owned this script.
 * Second, you obfuscate the script.
 
-## BEHAVE WHAT YOU DO
+<h1 align="center">BEHAVE WHAT YOU DO</h1>
